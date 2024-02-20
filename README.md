@@ -83,3 +83,7 @@ If you base your application on this example, we recommend you familiarize yours
 For example, the following aspect is particularly relevant for this app:
 * [Validate inputs](https://internetcomputer.org/docs/current/references/security/rust-canister-development-security-best-practices#validate-inputs), since this canister processes user-provided input. 
 
+## About me
+Linkedin - [Vivek Jami](https://www.linkedin.com/in/vivek-jami-bbaa2622a)
+
+Twitter/X - [@VivekJami4](https://twitter.com/VivekJami4)
